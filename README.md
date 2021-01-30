@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Data science at Clearbanc
-* Indie game developer at Quill Studios (sold 6k+ paid copies of [debut game](https://www.nintendo.com/games/detail/a-summer-with-the-shiba-inu-switch/))
+* Indie game developer at Quill Studios ([debut game](https://www.nintendo.com/games/detail/a-summer-with-the-shiba-inu-switch/))
 * Host ML livestreams at [ai.science](https://www.youtube.com/c/AISocraticCirclesAISC/videos), 12k+ YouTube subscribers
 * Write about career, dev, and productivity at [susanshu.com](https://susanshu.com)
 
